@@ -1,2 +1,2 @@
 # atpesc-issues
-Example for ATPESC Kanban
+Example for ATPESC 2018 Kanban
